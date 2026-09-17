@@ -1,6 +1,8 @@
 # Francisco Rivas
 
-Technical Project Manager in Madrid. I lead delivery across applied AI, cloud platforms, and developer tooling.
+Technical Project Manager in Madrid.
+
+Building applied AI products, cloud systems, and developer tools.
 
 I turn complex technical work into clear plans, aligned teams, and shipped outcomes. My work sits between product goals and engineering execution, with a focus on useful systems that can be operated and maintained.
 
