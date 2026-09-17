@@ -1,19 +1,19 @@
 # Francisco Rivas
 
-Software engineer in Madrid. I build applied AI products, cloud systems, and developer tools.
+Technical Project Manager in Madrid. I lead delivery across applied AI, cloud platforms, and developer tooling.
 
-I like projects that turn complicated infrastructure into something people can actually use. My current work sits across AI-assisted products, platform engineering, and full-stack delivery.
+I turn complex technical work into clear plans, aligned teams, and shipped outcomes. My work sits between product goals and engineering execution, with a focus on useful systems that can be operated and maintained.
 
-At [Navteca](https://github.com/Navteca), I work on AI, cloud, and platform engineering. This profile only describes public work and broad technical experience.
+At [Navteca](https://github.com/Navteca), I manage technical projects across AI, cloud, and platform engineering. This profile only describes public work and broad professional experience.
 
-## What I work with
+## Focus areas
 
-- Applied AI: conversational agents, document AI, NLP, and AI-assisted development
-- Product engineering: TypeScript, React, Node.js, Fastify, Supabase, and PostgreSQL
-- Cloud and platform work: AWS, Azure, Kubernetes, Helm, CI/CD, and observability
-- Developer tools: Go, Python, shell, GitHub Actions, and repeatable engineering workflows
+- Technical delivery: planning, prioritization, dependencies, risk, and stakeholder alignment
+- Applied AI: conversational agents, document AI, NLP, and AI-assisted workflows
+- Cloud and platforms: AWS, Azure, Kubernetes, Helm, CI/CD, and observability
+- Engineering operations: issues, pull requests, documentation, release planning, and continuous improvement
 
-I prefer small, issue-linked pull requests with enough context to review quickly. Documentation is part of the change, not cleanup for later.
+I value small, issue-linked pull requests with enough context to review quickly. Documentation is part of delivery, not cleanup for later.
 
 ## Chapa
 
